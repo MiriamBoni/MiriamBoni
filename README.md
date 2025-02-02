@@ -1,8 +1,8 @@
 # :blossom: Welcome to my Space! :blossom: <!-- Titulo de bienvenida con emojis de flores -->
 
-:woman_technologist: Hi I'm Miriam and I am a Junior Web Developer.     <!-- Presentacion -->
+:woman_technologist: Hi I'm Miriam and I am a Full Stack developer.     <!-- Presentacion -->
 
-I am currently an intern at [PMFarma](https://www.pmfarma.com/) , a publisher for management and marketing of pharmaceutical companies , in which I have the opportunity to participate in a variety of projects.  <!--  Empresa en la que estoy actualmente + link a la empresa   -->
+I am currently a Full Stack developer at [PMFarma](https://www.pmfarma.com/) , a publisher for management and marketing of pharmaceutical companies , in which I have the opportunity to work in a variety of projects.  <!--  Empresa en la que estoy actualmente + link a la empresa   -->
 
 <br>
 
