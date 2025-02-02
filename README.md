@@ -13,7 +13,7 @@ I am currently a Full Stack developer at [PMFarma](https://www.pmfarma.com/) , a
 
  <br> 
 
-### :sparkles: Currently  Im specializing in mostly  Frontend Technologies     <!-- Título 3 hablando en mi especialización -->
+### :sparkles: Currently  Im specializing in modern Javascript frameworks and and API development    <!-- Título 3 hablando en mi especialización -->
 
 <br> 
 
